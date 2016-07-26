@@ -47,9 +47,14 @@ def parse_txt2(file):
 #print parse_txt1("./sources/tribune-jdd.txt")
 #print len(parse_txt2("./sources/motion-droite-mai.vote.txt"))
 
-deputes = parse_txt2("sources/deputes.txt")
+deputes = pd.DataFrame.from_csv("sources/deputes.txt", encoding="utf-8", sep="\t", header=None)
 
-df = pd.DataFrame(index=deputes, columns=sources.keys())
+# création du tableau
+
+df = pd.DataFrame(index=deputes.index, columns=sources.keys())
+
+
+# intégration des signatures/votes
 
 for col, l in sources.iteritems():
   names = parse_txt2(l)
@@ -57,6 +62,20 @@ for col, l in sources.iteritems():
   df.ix[names, col] = "x"
 
 df = df.fillna("")
+
+# intégration des groupes parlementaires
+
+df["groupe parlementaire"] = deputes.iloc[:, 3]
+
+
+# intégration des partis politiques
+
+partis = pd.DataFrame.from_csv("sources/deputes_parti.txt", sep="\t", header=None, encoding="utf-8", index_col=None)
+
+print len(df)
+print partis[3]
+
+df["parti politique"] = list(partis[3])
 
 print df.head()
 
