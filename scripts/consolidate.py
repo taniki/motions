@@ -40,7 +40,15 @@ def parse_txt2(file):
   if "," in txt:
     result = [ x.split(",")[0] for x in result ]
 
-  sorted(result, key=lambda x: x.split(" ")[-1])
+  def sort(x):
+    r = x.split(" ")[-1]
+
+    if x.split(" ")[-2] == "Le" or x.split(" ")[-2] == "La":
+      r = x.split(" ")[-2] + " " + r
+
+    return r
+
+  sorted(result, key=sort)
 
   return result
 
@@ -72,11 +80,14 @@ df["groupe parlementaire"] = deputes.iloc[:, 3]
 
 partis = pd.DataFrame.from_csv("sources/deputes_parti.txt", sep="\t", header=None, encoding="utf-8", index_col=None)
 
-print len(df)
-print partis[3]
+partis["id"] = partis[1] + " " + partis[0]
+print partis["id"]
 
-df["parti politique"] = list(partis[3])
+partis.set_index("id", inplace=True)
+print partis
+df["parti politique"] = partis[3]
 
 print df.head()
+print len(df)
 
 df.to_csv("data/motions.csv", encoding="utf-8")
