@@ -1,0 +1,79 @@
+{
+  "links": [
+    {
+      "source": 0, 
+      "target": 1, 
+      "value": 0
+    }, 
+    {
+      "source": 0, 
+      "target": 2, 
+      "value": 0
+    }, 
+    {
+      "source": 0, 
+      "target": 3, 
+      "value": 56
+    }, 
+    {
+      "source": 3, 
+      "target": 4, 
+      "value": 52
+    }, 
+    {
+      "source": 0, 
+      "target": 4, 
+      "value": 4
+    }, 
+    {
+      "source": 4, 
+      "target": 5, 
+      "value": 54
+    }, 
+    {
+      "source": 0, 
+      "target": 5, 
+      "value": 2
+    }, 
+    {
+      "source": 3, 
+      "target": 5, 
+      "value": 2
+    }, 
+    {
+      "source": 5, 
+      "target": 6, 
+      "value": 28
+    }
+  ], 
+  "nodes": [
+    {
+      "name": "député.e.s", 
+      "node": 0
+    }, 
+    {
+      "name": "motion de droite (12/05/2016)", 
+      "node": 1
+    }, 
+    {
+      "name": "motion de droite - vote (12/05/2016)", 
+      "node": 2
+    }, 
+    {
+      "name": "motion des gauches (12/05/2016)", 
+      "node": 3
+    }, 
+    {
+      "name": "motion (28/06/2016)", 
+      "node": 4
+    }, 
+    {
+      "name": "tribune jdd", 
+      "node": 5
+    }, 
+    {
+      "name": "motion citoyenne", 
+      "node": 6
+    }
+  ]
+}
