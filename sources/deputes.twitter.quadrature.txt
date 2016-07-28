@@ -1,0 +1,594 @@
+
+Delphine	Batho	SRC
+Carlos	DaSilva / Da Silva	SRC	@DaSilvaCarlos91
+Martine	Carrillon-Couvreur	SRC
+Catherine	Coutelle	SRC
+Valérie	Fourneyron	SRC
+Olivier	Faure	SRC	@faureolivier
+Monique	Iborra	SRC	@MoniqueIborra
+Viviane	Le Dissez	SRC
+Annick	LeLoch	SRC	@annick_leloch
+Jean-Pierre	Le Roch	SRC
+Serge	Letchimy	SRC	@SergeLetchimy
+Christine	Pires Beaune	SRC	@cpiresbeaune
+Marcel	Rogemont	SRC	@marcelrogemont
+Catherine	Troallic	SRC	@CaTroallic
+Suzanne	Tallard	SRC	@SuzanneTallard
+Marc	Goua	SRC
+Jacqueline	Maquet	SRC
+Axelle	Lemaire	SRC	@axellelemaire
+Christophe	Premat	SRC
+Philip	Cordery	SRC	@PhilipCordery
+Arnaud	Leroy	SRC	@ar_leroy
+Pouria	Amirshahi	SRC	@PouriaAmirshahi
+Estelle	Grelier	SRC	@estellegrelier
+Fanny	Dombre-Coste	SRC	@fdc3403
+Eduardo	Rihan-Cypel	SRC	@Rihan_Cypel
+Pierre-Yves	LeBorgn	SRC	@pyleborgn
+Brigitte	Bourguignon	SRC
+Gilbert	LeBris	SRC	@gilbertlebris
+Anne-Yvonne	LeDain	SRC	@Ayledain
+Françoise	Dubois	SRC	@fdubois2012
+Alexis	Bachelay	SRC	@ABachelay
+Alain	Rousset	SRC	@al_rousset @RoussetAlain
+Annick	Lepetit	SRC	@annick_lepetit
+Christian	Assaf	SRC	@assaf2012
+Serge	Bardy	SRC	@bardyserge
+Bernard	Roman	SRC	@bernardroman59
+Bernard	Lesterlin	SRC	@BLesterlin
+Barbara	Romagnan	SRC	@bromagnan
+Colette	Capdevielle	SRC	@c_capdevielle
+Corinne	Erhel	SRC	@c_erhel_deputee
+Carole	Delga	SRC	@CaroleDelga
+Catherine	Lemorton	SRC	@CathLEMORTON
+Christophe	Caresche	SRC	@CCaresche
+Christophe	Castaner	SRC	@CCastaner
+Christian	Eckert	SRC	@CECKERT56
+Christophe	Léonard	SRC	@Ch_Leonard
+Nathalie	Chabanne	SRC	@Chabanne_Nat
+Chantal	Guittet	SRC	@chantalguittet
+Christophe	Borgel	SRC	@chborgel
+Christophe	Bouillon	SRC	@Chris_Bouillon
+Christian	Paul	SRC	@christianpaul58
+Claude	Bartolone	SRC	@claudebartolone
+Marie-Françoise	Clergeau	SRC	@clergeaumf
+Clotilde	Valter	SRC	@ClotildeVALTER
+Conchita	Lacuey	SRC	@ConchitaLacuey
+Jean-Jacques	Cottel	SRC	@cotteljj
+Daniel	Vaillant	SRC	@danielvaillant
+Dominique	Chauvel	SRC	@deputeeChauvel
+Martine	Pinville	SRC	@deputepinville
+Sandrine	Doucet	SRC	@Doucet_Sandrine
+Ericka	Bareigts	SRC	@ebareigts
+Élisabeth	Guigou	SRC	@elisabethguigou
+Elisabeth	Pochon	SRC	@ElisabethPochon
+Éric	Jalton	SRC	@EricJALTON
+Erwann	Binet	SRC	@erwannbinet
+Fabrice	Verdier	SRC	@F_Verdier
+Fanélie	Carrey-Conte	SRC	@FCarreyConte
+Françoise	Dumas	SRC	@fdumasdeputee
+Florent	Boudié	SRC	@florent_boudie
+Frédérique	Massat	SRC	@Fmassat09
+Michèle	Fournier-Armand	SRC	@fournier_armand
+François	André	SRC	@FrancoisAndre35
+Frédéric	Barbier	SRC	@Fred_Barbier
+Gwendal	Rouillard	SRC	@G_ROUILLARD
+Geneviève	Gaillard	SRC	@gaillard_2014
+Guillaume	Bachelay	SRC	@GBachelay
+Gérard	Sebaoun	SRC	@gerardsebaoun
+Germinal	Peiro	SRC	@germinalpeiro
+Gisèle	Biémouret	SRC	@GiseleBiemouret
+Guy-Michel	Chauveau	SRC	@GMChauveau
+Daniel	Goldberg	SRC	@GoldbergDaniel
+Guy	Delcourt	SRC	@Guy_Delcourt
+Guy	Chambefort	SRC	@guychambefort
+Henri	Jibrayel	SRC	@henrijibrayel
+Hugues	Fourage	SRC	@HuguesFourage
+Isabelle	Bruneau	SRC	@IsabelleBrunea1
+Jacques	Cresta	SRC	@JacquesCresta
+Jean-Christophe	Cambadélis	SRC	@jccambadelis
+Jean-David	Ciot	SRC	@jdciot
+Jean	Grellier	SRC	@Jean_Grellier
+Jean-Luc	Bleunven	SRC	@JeanLucBleunven
+Jérôme	Guedj	SRC	@JeromeGuedj
+Jean-Jacques	Urvoas	SRC	@JJUrvoas
+Jean-Louis	Destans	SRC	@JLDestans
+Jean-Louis	Gagnaire	SRC	@JLGagnaire
+Jean-Marie	Beffara	SRC	@jmbeffara
+Jean-Michel	Clément	SRC	@jmclement86
+Jean-Marc	Germain	SRC	@jmgermain
+Joaquim	Pueyo	SRC	@JoaquimPueyo
+Joëlle	Huillier	SRC	@Joellehuillier
+Jean-Patrick	Gille	SRC	@jp_gille
+Jean-Paul	Bacquet	SRC	@jpbacquet
+Jean-Pierre	Blazy	SRC	@jpblazy
+Jean-Philippe	Mallé	SRC	@JpmMALLE
+Régis	Juanico	SRC	@Juanico
+Julie	Sommaruga	SRC	@JulieSOMMARUGA
+Jacques	Valax	SRC	@jvalax
+Jean-Jacques	Vlody	SRC	@jvlody
+Jean-Yves	Caullet	SRC	@JYCaullet
+Marietta	Karamanli	SRC	@karamanli72
+Karine	Berger	SRC	@Karine_Berger
+Colette	Langlade	SRC	@langladecolette
+Laurent	Baumel	SRC	@laurentbaumel
+Laurent	Grandguillaume	SRC	@LGRANDGUILLAUME
+Martine	Lignières-Cassou	SRC	@Lignierescassou
+Linda	Gourjade	SRC	@Linda_Gourjade
+Luc	Belot	SRC	@LucBELOT
+Lucette	Lousteau	SRC	@LucetteLousteau
+Marie-Anne	Chapdelaine	SRC	@ma_chapdelaine
+Thierry	Mandon	SRC	@mandonthierry
+Martine	Faure	SRC	@MartineFaure
+Martine	Martinel	SRC	@MartineMartinel
+Mathieu	Hanotin	SRC	@MathieuHanotin
+Michel	Destot	SRC	@mdestot
+Marie-Françoise	Bechtel	SRC	@MFBechtel
+Marie-Hélène	Fabre	SRC	@MHFabre
+Michel	Ménard	SRC	@Michel_MENARD
+Michel	Françaix	SRC	@michelfrancaix
+Michel	Pouzol	SRC	@MichelPouzol
+Michel	Vergnier	SRC	@MichelVERGNIER
+Michel	Lefait	SRC	@MLEFAIT
+Marie-Lou	Marcel	SRC	@mloumarcel
+Marie-Line	Reynaud	SRC	@MLReynaud16
+Monique	Orphé	SRC	@moniqueorphe
+Monique	Rabin	SRC	@MoniqueRabin
+Nathalie	Appéré	SRC	@nathalieappere
+Nicolas	Bays	SRC	@nicolasbays
+Nathalie	Nieson	SRC	@nnieson
+Olivier	Dussopt	SRC	@olivierdussopt
+Maud	Olivier	SRC	@OlivierMaud
+Olivier	Véran	SRC	@olivierveran
+Pascal	Cherki	SRC	@pascalcherki
+Pascal	Popelin	SRC	@pascalpopelin
+Patrice	Prat	SRC	@PatricePrat
+Patrick	Mennucci	SRC	@patrickmennucci
+Patrick	Vignal	SRC	@PatrickVignal
+Patrick	Bloche	SRC	@pbloche
+Philippe	Doucet	SRC	@pdoucet
+Philippe	Baumel	SRC	@philippebaumel
+Philippe	Bies	SRC	@PhilippeBIES
+Philippe	Duron	SRC	@PhilippeDuron
+Philippe	Kemel	SRC	@philippekemel
+Philippe	Nauche	SRC	@PhilippeNauche
+Philippe	Noguès	SRC	@PhilippeNogues
+Pierre-Alain	Muet	SRC	@pierrealainmuet
+Philippe	Plisson	SRC	@plisson2012
+Dominique	Potier	SRC	@PotierDominique
+Pascal	Terrasse	SRC	@pterrasse
+Dominique	Raimbourg	SRC	@Raimbourg
+Razzy	Hammadi	SRC	@RHammadi
+Richard	Ferrand	SRC	@RichardFerrand
+Sandrine	Mazetier	SRC	@S_Mazetier
+Ségolène	Neuville	SRC	@s_neuville
+Sébastien	Pietrasanta	SRC	@S_PIETRASANTA
+Sandrine	Hurel	SRC	@sandrinehurel
+Sébastien	Denaja	SRC	@SebastienDenaja
+Seybah	Dagoma	SRC	@SeybahDagoma
+Sophie	Dessus	SRC	@SophieDessus
+Sophie	Errante	SRC	@SophieErrante
+Stéphane	Travert	SRC	@StTRAVERT
+Sylviane	Bulteau	SRC	@sylvianebulteau
+Sylvie	Pichot	SRC	@SylviePichot
+Sylvie	Tolmont	SRC	@SylvieTolmont
+Valérie	Corre	SRC	@ValCorre2012
+Michel	Vauzelle	SRC	@Vauzelle
+Victorin	Lurel	SRC	@VictorinLurel
+Vincent	Feltesse	SRC	@VincentFeltesse
+William	Dumas	SRC	@william_dumas
+Yann	Galut	SRC	@yanngalut
+Ibrahim	Aboubacar	SRC
+Patricia	Adam	SRC
+Sylviane	Alaux	SRC
+Jean-Pierre	Allossery	SRC
+Kader	Arif	SRC
+Joël	Aviragnet	SRC
+Pierre	Aylagas	SRC
+Jean-Marc	Ayrault	SRC	@jeanmarcayrault
+Dominique	Baert	SRC
+Gérard	Bapt	SRC
+Christian	Bataille	SRC
+Marie-Noëlle	Battistel	SRC
+Catherine	Beaubatie	SRC
+Chantal	Berthelot	SRC
+Yves	Blein	SRC
+Daniel	Boisserie	SRC
+Marie-Odile	Bouillé	SRC
+Malek	Boutih	SRC
+Kheira	Bouziane-Laroussi	SRC
+Emeric	Bréhier	SRC
+Jean-Louis	Bricout	SRC	@jlbricout
+Jean-Jacques	Bridey	SRC
+François	Brottes	SRC
+Gwenegan	Bui	SRC	@GweneganB
+Sabine	Buis	SRC	@BuisSabine
+Jean-Claude	Buisine	SRC
+Vincent	Burroni	SRC
+Jérôme	Cahuzac	SRC
+Alain	Calmette	SRC
+Yann	Capet	SRC
+Marie-Arlette	Carlotti	SRC	@MACarlotti
+Laurent	Cathala	SRC
+Bernard	Cazeneuve	SRC
+Jean-Paul	Chanteguet	SRC
+Alain	Claeys	SRC
+Romain	Colas	SRC
+Pascale	Crozon	SRC
+Frédéric	Cuvillier	SRC
+Yves	Daniel	SRC
+Pascal	Deguilhem	SRC
+Michèle	Delaunay	SRC	@micheledelaunay
+Florence	Delaunay	SRC
+Pascal	Demarthe	SRC
+René	Dosière	SRC
+Jean-Luc	Drapeau	SRC
+Jean-Pierre	Dufau	SRC
+Anne-Lise	Dufour-Tonini	SRC
+Jean-Louis	Dumont	SRC
+Laurence	Dumont	SRC
+Jean-Paul	Dupré	SRC
+Yves	Durand	SRC
+Henri	Emmanuelli	SRC
+Laurent	Fabius	SRC
+Alain	Fauré	SRC
+Hervé	Féron	SRC
+Olivier	Ferrand	SRC
+Aurélie	Filippetti	SRC
+Geneviève	Fioraso	SRC
+Jean-Pierre	Fougerat	SRC
+Jean-Marc	Fournel	SRC
+Christian	Franqueville	SRC
+Jean-Claude	Fruteau	SRC
+Guillaume	Garot	SRC
+Hélène	Geoffroy	SRC
+Jean	Glavany	SRC
+Yves	Goasdoue	SRC
+Geneviève	Gosselin-Fleury	SRC
+Pascale	Got	SRC	@Pascalegot
+Jean-Claude	Gouget	SRC
+Edith	Gueugneau	SRC
+Thérèse	Guilbert	SRC
+David	Habib	SRC
+Benoît	Hamon	SRC
+Christian	Hutin	SRC
+Françoise	Imbert	SRC
+Michel	Issindou	SRC
+Serge	Janquin	SRC
+Armand	Jung	SRC
+Laurent	Kalinowski	SRC
+Chaynesse	Khirouni	SRC
+Bernadette	Laclais	SRC
+François	Lamy	SRC	@lamy_f
+Anne-Christine	Lang	SRC
+Jean	Launay	SRC
+Jean-Luc	Laurent	SRC
+Pierre	Léautey	SRC
+Marylise	Lebranchu	SRC
+Patrick	Lebreton	SRC
+Dominique	Lefebvre	SRC
+Patrick	Lemasle	SRC
+Michel	Lesage	SRC
+Michel	Liebgott	SRC
+Audrey	Linkenheld	SRC
+François	Loncle	SRC
+Gabrielle	Louis-Carabin	SRC
+Jean-René	Marsac	SRC
+Kléber	Mesquida	SRC
+Franck	Montaugé	SRC	@FranckMontauge
+Pierre	Moscovici	SRC
+Robert	Olive	SRC
+Michel	Pajon	SRC
+Luce	Pane	SRC
+George	Pau-Langevin	SRC
+Rémi	Pauvros	SRC
+Jean-Claude	Perez	SRC
+Napole	Polutélé	SRC
+Émilienne	Poumirol	SRC
+Régine	Povéda	SRC
+François	Pupponi	SRC	@fpupponi
+Catherine	Quéré	SRC
+Marie	Récalde	SRC	@MarieRecalde
+Denys	Robiliard	SRC
+Alain	Rodet	SRC
+Frédéric	Roig	SRC
+Dolores	Roqué	SRC
+René	Rouquet	SRC
+Boinali	Said	SRC
+Béatrice	Santais	SRC
+Odile	Saugues	SRC
+Gilbert	Sauvan	SRC
+Gilles	Savary	SRC	@sg3391
+Christophe	Sirugue	SRC
+Gérard	Terrier	SRC
+Marisol	Touraine	SRC
+Cécile	Untermaier	SRC
+Hélène	Vainqueur-Christophe	SRC
+Manuel	Valls	SRC
+Alain	Vidalies	SRC
+Jean-Michel	Villaumé	SRC
+Paola	Zanetti	SRC
+Daniel	Gibbes	SRC (apparenté)	@GIBBS_SXM
+Hervé	Pellois	SRC (apparenté)	@HervePellois
+Arnaud	Richard	UDI	@ArnaudRichard_
+André	Santini	UDI	@ASantini_UDI
+Bertrand	Pancher	UDI	@BertrandPancher
+Franck	Reynier	UDI	@FranckReynier
+François-Xavier	Villain	UDI	@fxvillain
+Hervé	Morin	UDI	@Herve_Morin
+Jean-Christophe	Fromantin	UDI	@JCFromantin
+Jean-Christophe	Lagarde	UDI	@jclagarde
+Jean-Louis	Borloo	UDI	@JLBorloo
+Maurice	Leroy	UDI	@MauriceLeroy
+Michel	Zumkeller	UDI	@MichelZumkeller
+Michel	Piron	UDI	@MPironDepute
+Philippe	Folliot	UDI	@philippefolliot
+Philippe	Gomes	UDI	@PhilippeGomesCE
+Rudy	Salles	UDI	@rudysalles
+François	Sauvadet	UDI	@sauvadet
+Sonia	Lagarde	UDI	@SoniaLagarde
+Philippe	Vigier	UDI	@VigierPhilippe
+Yannick	Favennec	UDI	@yfavennec
+Yves	Jégo	UDI	@yvesjego
+Thierry	Benoit	UDI
+Laurent	Degallaix	UDI
+Stéphane	Demilly	UDI
+Francis	Hillmeyer	UDI
+Henri	Plagnol	UDI
+François	Rochebloine	UDI
+Francis	Vercamer	UDI
+Charles	De La Verpillière	UMP	@delaverpilliere
+Bruno	Le Maire	UMP	@Bruno_LeMaire
+Dominique	Le Mèner	UMP	@lemenerdom
+Philippe-Armand	Martin	UMP	@DeputeMartin
+Franck	Riester	UMP	@franckriester
+Guillaume	Chevrollier	UMP	@gchevrollier
+Luc	Chatel	UMP	@LucChatel
+Nathalie	Kosciusko-Morizet	UMP	@nk_m
+Philippe	Goujon	UMP	@Philippe_Goujon
+Bernard	Deflesselles	UMP
+Pierre	Lequiller	UMP
+Frédéric	Lefebvre	UMP	@FLefebvre_UMP
+Claudine	Schmid	UMP	@Claudine_Schmid
+Meyer	Habib	UMP
+Thierry	Mariani	UMP	@ThierryMARIANI
+Gilles	Lurton	UMP	@gilleslurton
+Jacques-Alain	Bénisti	UMP
+Charles	De Courson	UMP	@C_deCourson
+Marc	Le Fur	UMP	@marclefur
+Claude	De Ganay	UMP	@Cdganay
+Alain	Leboeuf	UMP	@a_leboeuf
+Alain	Suguenot	UMP	@A_Suguenot
+Arlette	Grosskost	UMP	@agrosskost
+Alain	Gest	UMP	@Alain_Gest
+Alain	Chrétien	UMP	@alainchretien
+Anne	Grommerch	UMP	@AnneGrommerch
+Arnaud	Robinet	UMP	@ArnaudRobinet
+Axel	Poniatowski	UMP	@AxelPoniatowski
+Bernard	Perrut	UMP	@B_Perrut
+Benoist	Apparu	UMP	@benoistapparu
+Bernard	Debré	UMP	@Bernard_Debre
+Bernard	Accoyer	UMP	@BernardAccoyer
+Bernard	Reynès	UMP	@bernardreynes
+Bernard	Gérard	UMP	@bgerard59
+Étienne	Blanc	UMP	@blanc_etienne
+Xavier	Breton	UMP	@bretonxavier
+Charles-Ange	Ginesy	UMP	@ca_ginesy
+Catherine	Vautrin	UMP	@CaVautrin
+Christian	Estrosi	UMP	@cestrosi
+Christian	Kert	UMP	@christian_kert
+Claude	Goasguen	UMP	@ClaudeGoasguen
+Claude	Greff	UMP	@ClaudeGreff
+Damien	Abad	UMP	@damienabad
+Marc-Philippe	Daubresse	UMP	@DAUBRESSE_MP
+Dominique	Bussereau	UMP	@Dbussereau
+David	Douillet	UMP	@DDouillet
+Jean-Claude	Mignon	UMP	@DeputeMIGNON
+Lionel	Tardy	UMP	@DeputeTardy
+Patrick	Devedjian	UMP	@DevedjianP
+Daniel	Fasquelle	UMP	@DFasquelle
+Dominique	Tian	UMP	@Dominique_TIAN
+Dominique	Dord	UMP	@DominiqueDord
+Jean-Pierre	Door	UMP	@doorjean
+Marianne	Dubois	UMP	@DuboisMarianne
+Virginie	Duby-Muller	UMP	@DubyMuller
+Éric	Ciotti	UMP	@ECiotti
+Édouard	Courtial	UMP	@EdouardCourtial
+Élie	Aboud	UMP	@Elie_ABOUD
+Edouard	Philippe	UMP	@EPhilippe_LH
+Éric	Straumann	UMP	@ericstraumann
+Éric	Woerth	UMP	@ericwoerth
+François	Fillon	UMP	@fdebeauce
+Françoise	Guégot	UMP	@fguegot
+Franck	Marlin	UMP	@franckmarlin
+François	Baroin	UMP	@francoisbaroin
+François	Vannson	UMP	@fvannson
+Gérald	Darmanin	UMP	@GDarmanin
+Georges	Fenech	UMP	@GeorgesFENECH
+Gérard	Cherpion	UMP	@GerardCherpion
+Gilles	Carrez	UMP	@GillesCarrez
+Guillaume	Larrivé	UMP	@GLarrive
+Guy	Teissier	UMP	@guyteissier
+Hervé	Mariton	UMP	@HerveMariton
+Hervé	Gaymard	UMP	@HGaymard
+Jacques	Kossowski	UMP	@jakossowski
+Jean-Claude	Bouchet	UMP	@JCBOUCHET
+Jean-Claude	Guibal	UMP	@jcguibal
+Jean-Charles	Taugourdeau	UMP	@JCTaugourdeau
+Jean	Leonetti	UMP	@JeanLeonetti
+Jean-Louis	Costes	UMP	@jeanlouiscostes
+Jean-Marie	Tetart	UMP	@JeanMarieTetart
+Jean-Pierre	Giran	UMP	@JeanPierreGiran
+Jérôme	Chartier	UMP	@jechartier
+Jean-Francois	Copé	UMP	@jf_cope
+Jean-Francois	Lamour	UMP	@JF_Lamour
+Jean-Francois	Mancel	UMP	@JFMancel
+Jean-Frédéric	Poisson	UMP	@jfpoisson78
+Jean-Jacques	Guillet	UMP	@jjguillet
+Jean-Luc	Moudenc	UMP	@jlmoudenc
+Jean-Michel	Couve	UMP	@jmcouve
+Jean-Pierre	Decool	UMP	@jpdecool
+Jean-Sébastien	Vialatte	UMP	@JS_Vialatte
+Julien	Aubert	UMP	@JulienAubert84
+Laurent	Wauquiez	UMP	@laurentwauquiez
+Pierre	Lellouche	UMP	@LellouchePierre
+Lionnel	Luca	UMP	@lionnelluca06
+Laurent	Marcangeli	UMP	@LMarcangeli
+Marc	Laffineur	UMP	@Marclaffineur
+Alain	Marleix	UMP	@MARLEIXAlain
+Philippe	Meunier	UMP	@MeunierPh
+Pierre	Morel-A-L'Huissier	UMP	@MORELPIERRE
+Alain	Moyne-Bressand	UMP	@moyne_bressand
+Michèle	Tabarot	UMP	@MTabarot
+Nicole	Ameline	UMP	@nicoleameline
+Olivier	Dassault	UMP	@ODassault
+Olivier	Carré	UMP	@olivier_carre
+Patrick	Ollier	UMP	@patrick_ollier
+Patrick	Labaune	UMP	@patricklabaune
+Jacques	Pélissard	UMP	@pelissard
+Philippe	Gosselin	UMP	@phgosselin
+Philippe	Cochet	UMP	@PhilippeCochet
+Philippe	Vitel	UMP	@PhilippeVitel
+Philippe	Houillon	UMP	@PHouillon
+Pierre	Morange	UMP	@PierreMorange
+Laure	De La Raudière	UMP	@lauredlr
+Sébastien	Huyghe	UMP	@SebastienHuyghe
+Camille	De Rocca Serra	UMP	@CdeRoccaSerra	2
+Thierry	Solère	UMP	@solere92
+Sophie	Dion	UMP	@SophieDionBaud
+Sylvain	Berrios	UMP	@sy_berrios
+Valérie	Boyer	UMP	@valerieboyer13
+Valérie	Pécresse	UMP	@vpecresse
+Xavier	Bertrand	UMP	@xavierbertrand
+Yannick	Moreau	UMP	@YannickMOREAU
+Yves	Nicolin	UMP	@ynicolin
+Yves	Albarello	UMP	@YvesAlbarello
+Laurence	Arribagé	UMP
+Patrick	Balkany	UMP
+Jean-Pierre	Barbier	UMP
+Marcel	Bonnot	UMP
+Philippe	Briand	UMP
+Bernard	Brochand	UMP
+Yves	Censi	UMP
+Jean-Louis	Christ	UMP
+Dino	Cinieri	UMP
+François	Cornut-Gentille	UMP
+Marie-Christine	Dalloz	UMP
+Lucien	Degauchy	UMP
+Rémi	Delatte	UMP
+Marie-Louise	Fort	UMP
+Yves	Foulon	UMP	@DeputeFoulon
+Marc	Francina	UMP
+Yves	Fromion	UMP
+Laurent	Furst	UMP
+Sauveur	Gandolfi-Scheit	UMP
+Annie	Genevard	UMP
+Guy	Geoffroy	UMP
+Franck	Gilard	UMP
+Georges	Ginesta	UMP
+Jean-Pierre	Gorges	UMP
+Serge	Grouard	UMP
+Henri	Guaino	UMP
+Christophe	Guilloteau	UMP
+Michel	Heinrich	UMP
+Michel	Herbillon	UMP
+Antoine	Herth	UMP
+Patrick	Hetzel	UMP
+Guénhaël	Huet	UMP
+Christian	Jacob	UMP
+Denis	Jacquat	UMP
+Jacques	Lamblin	UMP
+Thierry	Lazaro	UMP
+Céleste	Lett	UMP
+Geneviève	Levy	UMP
+Olivier	Marleix	UMP
+Patrice	Martin-Lalande	UMP
+Alain	Marty	UMP
+Jean-Claude	Mathis	UMP
+Gérard	Menuel	UMP
+Damien	Meslot	UMP
+Jacques	Myard	UMP
+Dominique	Nachury	UMP
+Bérengère	Poletti	UMP
+Josette	Pons	UMP
+Christophe	Priou	UMP
+Didier	Quentin	UMP
+Frédéric	Reiss	UMP
+Jean-Luc	Reitzer	UMP
+Sophie	Rohfritsch	UMP
+Martial	Saddier	UMP
+Paul	Salen	UMP
+François	Scellier	UMP
+André	Schneider	UMP
+Jean-Marie	Sermier	UMP
+Fernand	Siré	UMP
+Michel	Sordi	UMP
+Claude	Sturni	UMP
+Michel	Terrot	UMP
+Patrice	Verchère	UMP
+Jean-Pierre	Vigier	UMP
+Michel	Voisin	UMP
+Jean-Luc	Warsmann	UMP
+Marie-Jo	Zimmermann	UMP
+François-Michel	Lambert	ECOLO	@fm_lambert
+Danielle	Auroi	ECOLO	@DanielleAuroi
+Sergio	Coronado	ECOLO	@sergiocoronado
+Barbara	Pompili	ECOLO	@barbarapompili
+Brigitte	Allain	ECOLO	@BrigitteAllain
+Christophe	Cavard	ECOLO	@ccavard
+Denis	Baupin	ECOLO	@Denis_Baupin
+Éric	Alauzet	ECOLO	@ericalauzet
+Eva	Sas	ECOLO	@EvaSasAN
+Jean-Louis	Roumegas	ECOLO	@jlroumegas
+Laurence	Abeille	ECOLO	@LaurenceAbeille
+Noël	Mamère	ECOLO	@noelmamere
+Paul	Molac	ECOLO	@Paul_Molac
+Véronique	Massonneau	ECOLO	@VMassonneau
+Isabelle	Attard	ECOLO	@TeamIsaAttard
+Michèle	Bonneton	ECOLO	@MicheleBonneton
+Cécile	Duflot	ECOLO	@CecileDuflot
+François	deRugy / de Rugy	ECOLO	@FdeRugy
+Bruno-Nestor	Azérot	GDR	@BNAzerot
+André	Chassaigne	GDR	@AndreChassaigne
+Jean-Jacques	Candelier	GDR	@jjcandelier
+François	Asensi	GDR
+Huguette	Bello	GDR	@HuguetteBello
+Alain	Bocquet	GDR
+Marie-George	Buffet	GDR
+Patrice	Carvalho	GDR
+Gaby	Charroux	GDR
+Marc	Dolez	GDR
+Jacqueline	Fraysse	GDR
+Alfred	Marie-Jeanne	GDR
+Jean-Philippe	Nilor	GDR
+Nicolas	Sansu	GDR	@NicolasSansu
+Gabriel	Serville	GDR	@GabrielServille
+Véronique	Besse	NI
+Alain	Marsaud	NI
+Sylvie	Andrieux	NI	@andrieux_sylvie
+Nicolas	Dupont-Aignan	NI	@dupontaignan
+Gilles	Bourdouleix	NI	@GBOURDOULEIX
+Gilbert	Collard	NI	@GilbertCollard
+Jacques	Bompard	NI	@JacquesBompard
+Jean	Lassalle	NI	@jeanlassalle
+Thomas	Thévenoud	NI	@tthevenoud
+Annick	Girardin	NI
+Marion	Maréchal-Le-Pen	NI	@Marion_M_Le_Pen	
+Alain	Tourret	RRDP	@AlainTourret
+Stéphane	Saint-André	RRDP	@AndrSaint
+Jean-Pierre	Maggi	RRDP	@jpmaggi_depute
+Olivier	Falorni	RRDP	@OlivierFalorni
+Paul	Giacobbi	RRDP	@pgiacobbi
+Thierry	Robert	RRDP	@trobert974
+Jean-Noël	Carpentier	RRDP	@carpentierjn
+Ary	Chalus	RRDP
+Gérard	Charasse	RRDP
+Stéphane	Claireaux	RRDP	@sclaireaux
+Jeanine	Dubié	RRDP
+Joël	Giraud	RRDP	@JoelGiraud05
+Gilda	Hobert	RRDP
+Jacques	Krabal	RRDP	@JKrabal
+Jérôme	Lambert	RRDP	@jeromelambert16
+Jacques	Moignard	RRDP	@JacquesMoignard
+Dominique	Orliac	RRDP	@D_Orliac
+Roger-Gérard	Schwartzenberg	RRDP	@rgs_an

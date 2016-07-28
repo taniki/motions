@@ -1,0 +1,41 @@
+{
+  "remerciements" : {
+    "targets": [],
+    "phrases": []
+  },
+  "frondeurs en carton":{
+    "phrases": [
+      "On admire votre courage politique...pour une tribune",
+      "Belle cohérence entre vos paroles et vos actes",
+      "Une tribune à 58... et la motion citoyenne?",
+      "Nuit debout, députés couchés",
+      "Comme vous nous substituerons une tribune au vote #2017"
+    ],
+    "hashtags": "#motioncitoyenne #LoiTravail #DemocratieDebout #TousDebout #chacunsontour #coherence"
+  },
+  "Les Républicains":{
+    "phrases":[
+      "Des \"républicains\" qui ne défendent pas le débat parlementaire. Drôle de cohérence... #MotionCitoyenne",
+      "Merci pour ces appels dans le vide. #MotionCitoyenne",
+      "Quitte à péter les plafonds de campagne, achetez vous des cartes SIM",
+      "Nuit debout, députés couchés #motioncitoyenne",
+      "une nouvelle génération, distincte des ancêtres républicains qui, née dans le régime, n'avait pas eu à souffrir pour le fonder"
+    ]
+  },
+  "UDI": {
+    "phrases": [
+      "Des \"démocrates\" qui ne signent pas une motion de censure démocratique. Drôle de cohérence... #MotionCitoyenne",
+      "Merci pour ces appels dans le vide. #MotionCitoyenne",
+      "Nuit debout, députés couchés #motioncitoyenne"
+    ]
+  },
+  "tous":{
+    "phrases":[
+      "Ni oubli ni pardon #loitravail",
+      "Ni oubli ni pardon #dénidedémocratie #TousDeboutPartout",
+      "C'est pour quand la démocratie réelle ? #TousDeboutPartout",
+      "Le gouvernement vous empêche de faire votre job, et vous ne faites rien ? #MotionCitoyenne",
+      "Nuit debout, députés couchés #motioncitoyenne"
+    ]
+  }
+}
